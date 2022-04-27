@@ -21,9 +21,9 @@
    ```sh
    pnpm install --save-dev @babel/core babel-loader @babel/preset-env @babel/preset-react html-webpack-plugin
    ```
-4. Install react and react-dom
+4. Install react, react-dom, react-router, react-hooks, react-icons
    ```sh
-   pnpm i react react-dom
+   pnpm i --save react react-dom react-router react-hooks react-icons
    ```
 5. Start the development server
    ```sh
